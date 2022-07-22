@@ -6,7 +6,7 @@
 
 
 
-#####  <p align = "center"> <img src="./assets/Octocat.png" width="200">  
+######  <p align = "center"> <img src="./assets/Octocat.png" width="200">  
 ##### <center> Git-logo by Simon Oxley https://github.com/logosgit, license: [The MIT License](https://opensource.org/licenses/mit-license.php)
 
 
@@ -22,9 +22,9 @@
  <p align = "center"> <img src="./assets/gitlab.svg" width="200"> 
 
 
-##### <center> GitLab logo by GitLab B.V. https://about.gitlab.com/press/press-kit/, license: [The MIT License](https://opensource.org/licenses/mit-license.php) </center>
+###### <center> GitLab logo by GitLab B.V. https://about.gitlab.com/press/press-kit/, license: [The MIT License](https://opensource.org/licenses/mit-license.php) </center>
 
-<font size="4"> [GitLab](https://about.gitlab.com) </font> - еще одна альтернатива GitHub, еще одному сайту для подделки с веб-сервисом и системой контроля версий, также основанной на Git. Конечно, он был разработан для размещения проектов с открытым исходным кодом и облегчения жизни разработчикам, но есть некоторые отличия от предыдущего.
+<font size="4">  [GitLab](https://about.gitlab.com) </font> - еще одна альтернатива GitHub, еще одному сайту для подделки с веб-сервисом и системой контроля версий, также основанной на Git. Конечно, он был разработан для размещения проектов с открытым исходным кодом и облегчения жизни разработчикам, но есть некоторые отличия от предыдущего.
 
 Этот сайт, помимо управление репозиторием и контроль версий, он также предлагает хостинг для вики и систему отслеживания ошибок. Полный пакет для создания и управления проектами всех типов, поскольку, как и GitHub, в настоящее время размещаются проекты, выходящие за рамки исходного кода.
 
