@@ -17,6 +17,6 @@
    
    
    
-   ![giphy](https://user-images.githubusercontent.com/109112733/180620833-f57a7350-4584-4bba-b683-9c1e899c6318.gif)
+  
 
 
