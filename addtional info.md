@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 - Книга по Git [:arrow_right:](https://git-scm.com/book/ru/v2)
 - Видео-уроки с официального сайта [:arrow_right:](https://git-scm.com/videos)
 - Сайт с полным пояснением использования *gitignore* [:arrow_right:](https://phpstack.ru/php/fajl-gitignore-podrobnaa-spargalka.html)
@@ -13,3 +14,24 @@
     + [:boom:](https://www.atlassian.com/ru/git/tutorials/using-branches/merge-conflicts)
 
 - Набор октокотов [:heart_eyes_cat:](https://octodex.github.com)<p align = "right"> [![](/assets/pngwing.com-2.png)](./readme.md "домой") 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
