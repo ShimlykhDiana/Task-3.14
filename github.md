@@ -7,7 +7,7 @@
 
 
 ######  <p align = "center"> <img src="./assets/Octocat.png" width="200">  
-##### <center> Git-logo by Simon Oxley https://github.com/logosgit, license: [The MIT License](https://opensource.org/licenses/mit-license.php)
+##### <p align = "center"> Git-logo by Simon Oxley https://github.com/logosgit, license: [The MIT License](https://opensource.org/licenses/mit-license.php) </p>
 
 
 
@@ -22,7 +22,7 @@
  <p align = "center"> <img src="./assets/gitlab.svg" width="200"> 
 
 
-###### <center> GitLab logo by GitLab B.V. https://about.gitlab.com/press/press-kit/, license: [The MIT License](https://opensource.org/licenses/mit-license.php) </center>
+###### <p align = "center"> GitLab logo by GitLab B.V. https://about.gitlab.com/press/press-kit/, license: [The MIT License](https://opensource.org/licenses/mit-license.php) </p>
 
 <font size="4">  [GitLab](https://about.gitlab.com) </font> - еще одна альтернатива GitHub, еще одному сайту для подделки с веб-сервисом и системой контроля версий, также основанной на Git. Конечно, он был разработан для размещения проектов с открытым исходным кодом и облегчения жизни разработчикам, но есть некоторые отличия от предыдущего.
 
