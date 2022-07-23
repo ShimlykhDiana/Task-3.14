@@ -14,4 +14,9 @@
     + [:boom:](https://www.atlassian.com/ru/git/tutorials/using-branches/merge-conflicts)
 
 - Набор октокотов [:heart_eyes_cat:](https://octodex.github.com)<p align = "right"> [![](/assets/pngwing.com-2.png)](./readme.md "домой") 
+   
+   
+   
+   ![giphy](https://user-images.githubusercontent.com/109112733/180620833-f57a7350-4584-4bba-b683-9c1e899c6318.gif)
+
 
