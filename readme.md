@@ -27,6 +27,7 @@ LICENSE: [MIT](./license.md)
 * [Что такое .gitignore?](./gitignore.md)
 
 * [Какие основные команды?](./basic%20cmd.md) 
+* [Что такое ветвление?](./branches.md)
 * [А если нужна дополнительная информация?](./addtional%20info.md)
 
 
